@@ -9,3 +9,8 @@
 - Did: Kaggle Python Lesson 3 (booleans and conditionals) + exercise.
 - Stuck on: int() is also a kind of bool()
 - Next: Kaggle Python Lesson 4 (lists), then Lesson 5 if time allows.
+
+## 2026-10-17 to 2026-10-19 (Week 1, Days 3–5)
+- Did: Kaggle Python Lesson 4 (lists) + exercise.
+- Stuck on: "list" is hard to understand. the course is getting hard.
+- Next: Kaggle Python Lesson 5 (loops and list comprehensions).
